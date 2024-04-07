@@ -176,7 +176,7 @@ uint8_t* GMAW_GAS_Diam_Inductor;
 uint8_t* GMAW_GAS_Diam_VSLOPE;
 
 
-//uint8_t i2c_temp=0;
+uint8_t i2c_temp=0;
 //HAL_StatusTypeDef i2c_state=0;
 //uint8_t i2c_buffer_write[32]={0};
 //uint8_t i2c_buffer_recive[32]={0};
